@@ -9,5 +9,5 @@ Este repositorio contiene
 El temario que encontrareis esta creado a partir de material realizados por mi mismo y:
 
 * Isaac Lera (UIB)
-* Bernat Galmés (UIB)
+* Bernat Galmés (UIB) -  https://github.com/BernatGalmes
 * Juan Huguet - https://github.com/juanhuguetgarcia
